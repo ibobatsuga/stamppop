@@ -1,0 +1,15 @@
+{
+  "short_name": "StampPop",
+  "name": "StampPop - Digital Loyalty Stamp",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#dc6138",
+  "display": "standalone"
+}
